@@ -1,7 +1,7 @@
 import logo from './logo.svg';
 import './App.css';
-import MyComponet from "./test_componets";
-import {element,label,element2,Greeting,element3} from "./JavaScriptXML";
+import MyComponet from "./COM/test_componets";
+import {element,label,element2,Greeting,element3} from "./COM/JavaScriptXML";
 
 function App() {
   return (
