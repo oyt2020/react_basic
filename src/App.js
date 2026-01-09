@@ -2,6 +2,7 @@ import logo from './logo.svg';
 import './App.css';
 import MyComponet from "./COM/test_componets";
 import {element,label,element2,Greeting,element3} from "./COM/JavaScriptXML";
+import Post from "./Post";
 
 function App() {
   return (
@@ -14,8 +15,7 @@ function App() {
         {element2}
         <Greeting />
         {element3}
-
-
+        <Post />
     </div>
   );
 }
